@@ -1,3 +1,6 @@
+Nama: Natty Maria Sasherlina
+Nisn: 2023.6898
+
 -- Membuat database
 CREATE DATABASE IF NOT EXISTS remedial_basis_data;
 USE remedial_basis_data;
